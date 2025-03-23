@@ -1,12 +1,12 @@
 {
-    "name": "HA MQTT discovery",
-    "version": "1.2.1",
+    "name": "HA MQTT Discovery",
+    "version": "1.2.2",
     "description": "handler for MQTT auto discovery in Home Assistant (HA).",
     "keywords": "mqtt, homeassistant, HA, discovery",
     "repository":
     {
       "type": "git",
-      "url": "https://github.com/MarcBresson/HA-MQTT"
+      "url": "https://github.com/AlexeyVdovin/HA-MQTT-library"
     },
     "authors":
     [
@@ -16,7 +16,7 @@
       }
     ],
     "license": "EUPL-1.2",
-    "homepage": "https://github.com/MarcBresson/HA-MQTT",
+    "homepage": "https://github.com/AlexeyVdovin/HA-MQTT-library",
     "frameworks": "arduino",
     "platforms": "*",
     "dependancies": {
